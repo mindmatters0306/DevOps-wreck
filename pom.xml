@@ -29,12 +29,12 @@
 		<repository>
 			<id>release</id>
 			<name>releases</name>
-			<url>http://192.168.56.101:8081/artifactory/cumis-repo-test</url>
+			<url>http://192.168.56.101:8081/artifactory/cumis-libs-release-local</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshot</id>
 			<name>snapshots</name>
-			<url>http://192.168.56.101:8081/artifactory/cumis-repo-test</url>
+			<url>http://192.168.56.101:8081/artifactory/cumis-libs-snapshot-local</url>
 		</snapshotRepository>
 	</distributionManagement>
 
